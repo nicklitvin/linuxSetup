@@ -2,7 +2,7 @@
 
 ### Run Commands
 - sudo apt install git
-- git clone <repo url>
+- git clone https://github.com/nicklitvin/linuxSetup
 
 Identify Display Name (Virtual1) for Virtual Box and change in /display.sh
 
