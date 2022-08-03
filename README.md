@@ -25,6 +25,8 @@ sudo chmod 777 ./setup.sh
 ./setup.sh
 ```
 
+Install vscode from official website
+
 # Mint Cinammon 21 settings to change
 
 Settings > Sounds > Disable system sounds
@@ -34,8 +36,6 @@ Desktop > Remove icons
 Taskbar > Unpin everything
 
 Downloads/linuxMint/wall.png > Set as wallpaper
-
-Install vscode from official website
 
 Add 120hz resolution script to startup applications
 
