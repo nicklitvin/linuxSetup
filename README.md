@@ -22,7 +22,7 @@ cd linuxSetup
 
 sudo chmod 777 ./setup.sh
 
-./setup.sh
+sudo ./setup.sh
 ```
 
 Install vscode from official website
