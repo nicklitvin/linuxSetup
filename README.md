@@ -35,7 +35,7 @@ Desktop > Remove icons
 
 Taskbar > Unpin everything
 
-Downloads/linuxMint/wall.png > Set as wallpaper
+/linuxMint/wall.png > Set as wallpaper
 
 Add 120hz resolution script to startup applications
 
