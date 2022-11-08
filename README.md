@@ -1,4 +1,4 @@
-# Setup Instructions (Inclduing VirtualBox)
+# Setup Instructions (Including VirtualBox)
 
 # VirtualBox settings
 
